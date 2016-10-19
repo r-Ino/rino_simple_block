@@ -1,0 +1,5 @@
+name: 'rIno simple block'
+type: module
+description: 'Add a module with your copyright'
+core: 8.x
+package: 'rIno'
